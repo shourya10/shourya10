@@ -5,4 +5,4 @@ osascript -e 'quit app "Twingate"'
 #osascript -e 'display dialog "Twingate is OFFLINE, please login to the Twingate CLient" with title "Twingate Client"'
 fi
 
-#add code for Mac
+#add code for Mac.
